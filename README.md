@@ -31,13 +31,13 @@
 
 ![Slide](./I. Data Collection & ETL/Data collection.jpg)
 
-[Amenities EDA NOTEBOOK](./01_Data_collection/RUN_DataEngineering.ipynb)
+[Data scraping and engineering NOTEBOOK](./01_Data_collection/RUN_DataEngineering.ipynb)
 
 The first (and most difficult) step is to collect data from Airbnb. As there is no API to access the data, one must resort to scraping to get the data. This can be time and resource consuming as there are many listings offered for rental on the Island, many different features to collect (description, detailed price, reviews, amenities, calendar) and you have scrape slowly not to overload the servers with too many requests. I hence used network interception on AWS for this project. This part could be considered a fullyfledge project on its own, the process is explained in this here and Code samples are available here. 
 
 ## II. EDA
 
-[Amenities EDA NOTEBOOK](./03_EDA/Amenities_EDA.ipynb)
+[EDA NOTEBOOK](./02_EDA/RUN_EDA.ipynb)
 
 
 Once the data is collected and properly stored we can query the databases to explore the different datasets.
@@ -45,7 +45,7 @@ For example, visualizing the competition and opportunities on the map, getting s
 
 ### III. Price-prediction
 
-[Amenities EDA NOTEBOOK](./03_EDA/Amenities_EDA.ipynb)
+[Price prediction NOTEBOOK](./03_Price_prediction/RUN_PricePrediction.ipynb)
 
 Finally, we create a small price prediction algorithm to set future listing  and assess current listing prices.
 
