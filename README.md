@@ -6,9 +6,9 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [I. Data Collection & ETL](#I.-Data-Collection-&-ETL)
-* [II. EDA](#II.-EDA)
-* [III. Price-prediction](#III.-Price-prediction)
+* [I. Data Collection & ETL](#I-Data-Collection-&-ETL)
+* [II. EDA](#II-EDA)
+* [III. Price-prediction](#III-Price-prediction)
 <!-- * [License](#license) -->
 
 ## General Information
