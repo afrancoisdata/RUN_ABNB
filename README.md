@@ -29,7 +29,7 @@
 
 ## I. Data Collection & ETL
 
-![Slide](./I. Data Collection & ETL/Data collection.jpg)
+![Slide](./img/scraping.jpg)
 
 [Data scraping and engineering NOTEBOOK](./01_Data_collection/RUN_DataEngineering.ipynb)
 
